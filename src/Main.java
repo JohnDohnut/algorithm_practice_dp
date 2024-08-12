@@ -2,6 +2,6 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        new Baek_1463().solution();
+        new Baek_2156().solution();
     }
 }
